@@ -1,0 +1,26 @@
+[
+  {
+  "cityName": "Malacca",
+  "country": "Malaysia",
+  "matched": false,
+  "cityDescription": "Before the arrival of the first Sultan, Malacca was a fishing village inhabited by local known as Orang Laut. Malacca was founded by Parameswara, also known as Iskandar Shah, the last Raja of Temasek (present day Singapore) following a Majapahit attack in 1377. He found his way to Malacca around 1400 where he found a good port—it was accessible in all seasons and on the strategically located narrowest point of the Malacca Straits",
+  "cityLocation": {"lat":2.2373723,"lng":102.1114169},
+  "cityImageURLs": "http://malacca.attractionsinmalaysia.com/img/photoState/malacca/theStadthuys/6.jpg"
+  },
+  {
+    "cityName": "Singapore",
+    "country": "Singapore",
+    "matched": false,
+    "cityDescription":"Singapore, an island city-state off southern Malaysia, is a global financial center with a tropical climate and multicultural population. Its colonial core centers on the Padang, a cricket field since the 1830s and now flanked by grand buildings such as City Hall, with its 18 Corinthian columns. In Singapore's circa-1820 Chinatown stands the red-and-gold Buddha Tooth Relic Temple, said to house one of Buddha's teeth.",
+    "cityLocation": {"lat": 1.3440852, "lng": 103.6839563},
+    "cityImageURLs":""
+  },
+  {
+    "cityName": "Hanoi",
+    "country": "Thailand",
+    "matched": false,
+    "cityDescription":"Hanoi, the capital of Vietnam, is known for its centuries-old architecture and a rich culture with Southeast Asian, Chinese and French influences. At its heart is the chaotic Old Quarter, where the narrow streets are roughly arranged by trade. There are many little temples, including Bach Ma, honoring a legendary horse, plus Đồng Xuân Market, selling household goods and street food.",
+    "cityLocation": {"lat":21.022736,"lng":105.8019441},
+    "cityImageURLs":"http://static.asiawebdirect.com/m/bangkok/portals/vietnam/shared/teasersL/hanoi/top10-hanoi/top10-hanoi-shopping/teaserMultiLarge/imageHilight/shopping-hanoi.jpg"
+  }
+]
