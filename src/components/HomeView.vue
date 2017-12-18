@@ -184,9 +184,7 @@ export default {
 
   },
   mounted: function() {
-           database.ref().child('Singapore').on('value', (snapshot) => {
-                 this.goerList = Object.values(snapshot.val());
-           });
+        
 
 
         console.log("map: ", google.maps)
