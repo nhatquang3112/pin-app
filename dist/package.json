@@ -1,0 +1,10 @@
+{
+ "name": "pin-app",
+ "version": "1.0.0",
+ "description": "travel app",
+ "author": "Quang",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}
